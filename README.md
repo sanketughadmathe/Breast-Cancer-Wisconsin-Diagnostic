@@ -11,3 +11,4 @@ Predicted Attribute: Whether the cancer is benign or malignant.
 
 ## Losses
 This is the graph of the traning loss and validation loss before using early-stopping.
+![Losses Plot](https://github.com/sanketughadmathe/Breast-Cancer-Wisconsin-Diagnostic/blob/master/images/Loss_plot_without_early_stop.png)
