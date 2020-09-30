@@ -8,3 +8,6 @@ Breast Cancer Wisconsin (Diagnostic) Data Set [(Link)](https://www.kaggle.com/uc
 Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image.
 
 Predicted Attribute: Whether the cancer is benign or malignant.
+
+## Losses
+This is the graph of the traning loss and validation loss before using early-stopping.
