@@ -14,3 +14,8 @@ This is the graph of the traning loss and validation loss before using early-sto
 
 
 ![Losses Plot](https://github.com/sanketughadmathe/Breast-Cancer-Wisconsin-Diagnostic/blob/master/images/Loss_plot_without_early_stop.png)
+
+This is the graph of the traning loss and validation loss after using early-stopping.
+
+
+![Losses Plot](https://github.com/sanketughadmathe/Breast-Cancer-Wisconsin-Diagnostic/blob/master/images/Loss_plot_after_early_stop.png)
