@@ -27,3 +27,5 @@ This is the graph of the traning loss and validation loss after using early-stop
 
 ## Confusion Matrix
 ![Confussion Matrix](https://github.com/sanketughadmathe/Breast-Cancer-Wisconsin-Diagnostic/blob/master/images/Confusion_Matrix_01.png)
+
+![Confussion Matrix](https://github.com/sanketughadmathe/Breast-Cancer-Wisconsin-Diagnostic/blob/master/images/Confusion_Matrix_02.png)
